@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	text-align: center;
+	color: azure;
+}
+body{
+	background-image: url("file:///C:/Users/UANE/Desktop/daniela%20mu%C3%B1oz%20html/sitioweb/img/fondito.jpg");
+	
+}
+
+.piepagina{
+	text-align: center;
+	padding-top: 500px;
+	color: aliceblue;
+}
+
